@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning React.js
 - 📫 Hit me up on twitter using the same handle
 
-Experienced front end developer (PHP) starting at the beginning with js frameworks
-
-I've picked up some Node/npm and Express on the route to learning React
+Experienced front end developer (PHP) returning to the basics with js frameworks. I've picked up Node/npm and Express on the route to learning React and am thoroughly enjoying the technology.
